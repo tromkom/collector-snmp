@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "config": "^2.0.1",
     "snmp-native": "^1.1.2"
   },
   "name": "collector-snmp",
