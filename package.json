@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "snmp-native": "^1.1.2"
+  },
+  "name": "collector-snmp",
+  "version": "0.1.0",
+  "description": "Fast, scalable SNMP collector with dynamic configurable outputs",
+  "main": "src/index.js",
+  "repository": "https://github.com/tromkom/collector-snmp.git",
+  "author": "kenth@tromkom.no",
+  "license": "MIT"
+}
