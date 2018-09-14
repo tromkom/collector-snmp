@@ -5,4 +5,8 @@ Fast, scalable SNMP collector with dynamic configurable outputs
 
 ## Installation 
 
+## Supported Outputs
 
+* stdout
+* elasticsearch
+* mongodb
